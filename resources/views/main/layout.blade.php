@@ -12,15 +12,14 @@
     <meta name="author" content="Egons Kalnins">
     {{-- Stylesheeets--}}
     {{--===============================================--}}
-    <link rel="stylesheet" href="{{ url('/') }}/css/bootstrap/app.css" >
     <link rel="stylesheet" href="{{ url('/') }}/css/bootstrap/bootstrap.min.css" >
-    <link rel="stylesheet" href="{{ url('/') }}/css/app.css" >
+    <link rel="stylesheet" href="{{ url('/') }}/css/style.css" >
     {{-- Skripti--}}
     {{--===============================================--}}
     <script src="{{ url('/') }}/js/vendor/jquery.js"></script>
     <script src="{{ url('/') }}/js/vendor/bootstrap.min.js"></script>
     <script src="{{ url('/') }}/js/script.js"></script>
-<body>
+    <body>
 {{-- Inversais melnais navigacias bars pielinkots pie augšas--}}
 <nav class="navbar navbar-inverse navbar-fixed-top" id="navigation">
     <div class="container">
@@ -60,7 +59,7 @@
     </div>
 
 </div>
-Teksts
+<h1 class="klase"> KLASE TEST </h1>
 
 </body>
 </html>
