@@ -1,0 +1,53 @@
+.main-logo {
+    background: #333333 url("../images/autumn.jpg") no-repeat;
+    background-size:cover;
+    background-position: 0% 5%;
+    opacity:0.8;
+}
+
+    .main-logo > *, .main-logo h2 .small {
+        color:#D175CE;
+        text-shadow: 2px 2px black;
+    }
+
+
+
+
+.navbar-nav > li > .dropdown-menu {
+    margin-bottom: 20px;
+    padding: 30px 30px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    font-size:inherit;
+    font-weight:inherit;
+}
+    .navbar-nav > li > .dropdown-menu >li {
+    padding-top:10px;
+    }
+    .navbar-nav > li > .dropdown-menu >li>a:hover {
+        background:rgb(228, 200, 200);
+    }
+
+
+
+
+
+nav > .container {
+    width:87%;
+    margin:auto;
+}
+
+.nav>li>a {
+    padding: 35px 70px 35px 0;
+}
+
+
+
+
+@media screen and (min-width:768px) {
+
+}
+
+@media screen and (min-width:1200px) {
+
+}

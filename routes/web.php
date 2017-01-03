@@ -12,10 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('horizons/main');
-});
-Route::get('/horizons', function () {
-    return view('horizons/main');
+    return view('gaujmaliete/main');
 });
 
 

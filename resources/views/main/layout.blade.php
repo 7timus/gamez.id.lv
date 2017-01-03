@@ -14,10 +14,13 @@
     {{--===============================================--}}
     <link rel="stylesheet" href="{{ url('/') }}/css/bootstrap/bootstrap.min.css" >
     <link rel="stylesheet" href="{{ url('/') }}/css/style.css" >
+    <link rel="stylesheet" href="{{ url('/') }}/css/custom.css" >
     {{-- Skripti--}}
     {{--===============================================--}}
     <script src="{{ url('/') }}/js/vendor/jquery.js"></script>
-    <script src="{{ url('/') }}/js/vendor/bootstrap.min.js"></script>
+    {{-- PRODUCTION <script src="{{ url('/') }}/js/vendor/bootstrap.min.js"></script>--}}
+    <script src="{{ url('/') }}/js/vendor/bootstrap.js"></script>
+
     <script src="{{ url('/') }}/js/script.js"></script>
     <body>
 {{-- Inversais melnais navigacias bars pielinkots pie augšas--}}
@@ -45,7 +48,7 @@
 </nav>
 
 <div class="jumbotron">
-    <div class="container text-center">
+    <div class="container nav-container text-center">
         <h1> Mana lapa</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis velit sed lectus vulputate mattis. Sed eu auctor diam. Proin vitae nibh consectetur, blandit sapien sit amet, sagittis nunc. Vivamus cursus cursus magna eget sagittis. Aenean rhoncus nec lacus et facilisis. Pellentesque viverra, dui vel convallis fermentum, magna lectus sagittis libero, non laoreet ipsum dui suscipit risus. Aenean laoreet metus egestas nisl fermentum vestibulum. Nullam rhoncus auctor urna et sodales. Donec pretium mi ligula, faucibus euismod ex consectetur sit amet.
 
