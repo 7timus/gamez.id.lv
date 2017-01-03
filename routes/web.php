@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('gaujmaliete/main');
 });
+Route::get('/test', function () {
+    return view('gaujmaliete/main-real');
+});
 
 
 
