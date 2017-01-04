@@ -49,7 +49,7 @@
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Par Mums
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Uzņemšana</a></li>
+                            <li><a href="{{ url('/uznemsana') }}">Uzņemšana</a></li>
                             <li><a href="#">Svarīgākie notikumi</a></li>
                             <li><a href="#">Simboli</a></li>
                             <li><a href="#">Amatpersonas</a></li>

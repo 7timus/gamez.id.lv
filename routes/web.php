@@ -17,6 +17,9 @@ Route::get('/', function () {
 Route::get('/vesture', function () {
     return view('gaujmaliete/vesture');
 });
+Route::get('/uznemsana', function () {
+    return view('gaujmaliete/uznemsana');
+});
 
 
 
