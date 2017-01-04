@@ -87,6 +87,20 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <p>Copyright &copy; Šādi tādi kopijraiti.</p>
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
+                <img src="https://www.w3.org/QA/Tools/I_heart_validator" alt="Validators">
             </div>
         </div>
     </div>
