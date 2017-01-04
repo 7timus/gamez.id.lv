@@ -12,10 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('gaujmaliete/main');
-});
-Route::get('/test', function () {
     return view('gaujmaliete/main-real');
+});
+Route::get('/vesture', function () {
+    return view('gaujmaliete/vesture');
 });
 
 

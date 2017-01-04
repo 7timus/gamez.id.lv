@@ -37,13 +37,13 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- Navigacijas brends - redzams uz mazajiem keraniem-->
-                <a class="navbar-brand" href="#">Esmu uz maza ekrana</a>
+                <a class="navbar-brand" href="{{ url('/') }}">Mazais ekrans</a>
             </div>
             <!-- Menu - ar iespeju samazinat ( collapse ) -->
             <div class="collapse navbar-collapse" id="navigation-collapse">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">Aktualitātes</a>
+                        <a href="{{ url('/') }}">Aktualitātes</a>
                     </li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Par Mums
@@ -58,7 +58,7 @@
 
                     </li>
                     <li>
-                        <a href="#">Vēsture</a>
+                        <a href="{{ url('/vesture') }}">Vēsture</a>
                     </li>
                     <li>
                         <a href="#">Galerija</a>
