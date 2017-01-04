@@ -37,7 +37,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- Navigacijas brends - redzams uz mazajiem keraniem-->
-                <a class="navbar-brand" href="index.html">Esmu uz maza ekrana</a>
+                <a class="navbar-brand" href="#">Esmu uz maza ekrana</a>
             </div>
             <!-- Menu - ar iespeju samazinat ( collapse ) -->
             <div class="collapse navbar-collapse" id="navigation-collapse">
