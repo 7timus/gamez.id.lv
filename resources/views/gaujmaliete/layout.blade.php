@@ -12,6 +12,7 @@
     <script src="{{ url('/') }}/js/vendor/bootstrap.min.js"></script>
     <script src="{{ url('/') }}/js/script.js"></script>
     {{--  STYLE SHEETS  --}}
+
     <link rel="stylesheet" href="{{ url('/') }}/css/bootstrap/bootstrap.min.css" >
     <link rel="stylesheet" href="{{ url('/') }}/css/style.css" />
     <link rel="stylesheet" href="{{ url('/') }}/css/custom.css" />
@@ -61,7 +62,7 @@
                         <a href="{{ url('/vesture') }}">Vēsture</a>
                     </li>
                     <li>
-                        <a href="#">Galerija</a>
+                        <a href="{{ url('/galerija') }}">Galerija</a>
                     </li>
                     <li>
                         <a href="#">Korporācijas Latvijā</a>
@@ -80,7 +81,6 @@
 <!-- kONTENTS -->
 @yield('content')
 <!-- /.container -->
-
 
 <footer>
     <div class="container">

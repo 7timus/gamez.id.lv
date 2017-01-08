@@ -1,3 +1,14 @@
+.address-bar {
+    color:floralwhite;
+}
+
+#header > .brand {
+    color:floralwhite;
+}
+
+
+
+
 .main-logo {
     background: #333333 url("../images/autumn.jpg") no-repeat;
     background-size:cover;
@@ -7,11 +18,13 @@
 
     .main-logo > *, .main-logo h2 .small {
         color:#D175CE;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px floralwhite;
     }
 
 
 
+
+    /* PIESKANOJU DROPDOWN LISTU  FONAM*/
 
 .navbar-nav > li > .dropdown-menu {
     margin-bottom: 20px;
@@ -30,8 +43,7 @@
 
 
 
-
-
+    /* KONTEINERS PRIEKS MENU SKAITA LIELAKA*/
 nav > .container {
     width:87%;
     margin:auto;
@@ -45,9 +57,15 @@ nav > .container {
 
 
 @media screen and (min-width:768px) {
+    #header > .brand {
+        color:floralwhite;
+    }
 
 }
 
 @media screen and (min-width:1200px) {
+    #header > .brand {
+        color:floralwhite;
+    }
 
 }

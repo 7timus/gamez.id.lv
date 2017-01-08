@@ -25,7 +25,7 @@
                 <p>Aicinām dziedāt gribošās un varošās korporantes pievienoties mūsu radošajam kolektīvam, piesakoties pie kora diriģentes Daces Bites (mob.tel. 22846208).
                     </br><strong>otrdienās </strong> s!k! Spīdola C!Q! (Dzirnavu iela 34a-5)
                     </br><strong>ceturtdienās </strong> s!k! Imeria C!Q! (Pulkv.Brieža iela 8-9), pulksten 18:30
-            ā    </p>
+                </p>
             </div>
         </div>
     </div>

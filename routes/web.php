@@ -20,6 +20,9 @@ Route::get('/vesture', function () {
 Route::get('/uznemsana', function () {
     return view('gaujmaliete/uznemsana');
 });
+Route::get('/galerija', function () {
+    return view('gaujmaliete/galerija');
+});
 
 
 
